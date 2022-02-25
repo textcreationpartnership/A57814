@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Anabaptists lying wonder, &amp;c., returned upon themselves to be tedious or prolix in observation of the ways and methods the Anabaptists have trodden in or observed to bring out their pretended prodigy, might be as erksom to the reader as 'twould be inconvenient to pretermit and not at all to take notice of them ...</title>
+            <author>Rudyard, Thomas, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57814</idno>
+            <idno type="STC">Wing R2174</idno>
+            <idno type="STC">ESTC R35152</idno>
+            <idno type="EEBO-CITATION">15043263</idno>
+            <idno type="OCLC">ocm 15043263</idno>
+            <idno type="VID">103095</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103095)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1578:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Anabaptists lying wonder, &amp;c., returned upon themselves to be tedious or prolix in observation of the ways and methods the Anabaptists have trodden in or observed to bring out their pretended prodigy, might be as erksom to the reader as 'twould be inconvenient to pretermit and not at all to take notice of them ...</title>
+                  <author>Rudyard, Thomas, d. 1692.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: T.R. [i.e. Thomas Rudyard]</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"A postscript writ by John Whitehead, who hath for many years laboured in the Gospel in the county of Lincoln"--p. 11.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, Ralph, 17th cent. --  True impartial narrative of the eminent hand of God that befell a Quaker ...</term>
+               <term>Anabaptists --  England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103095:1"/>
+            <pb n="1" facs="tcp:103095:1"/>
+            <head>The Anabaptiſts LYING WONDER, &amp;c. Returned upon Themſelves</head>
+            <p>
+               <hi>TO be tedious or prolix in Obſervation of the Wayes and Methods the</hi> Anabaptiſts <hi>have trod<g ref="char:EOLhyphen"/>den in or obſerved to bring out their pretended Prodigy, might be as</hi> Erkſom <hi>to the Reader, as 'twould be</hi> In<g ref="char:EOLhyphen"/>convenient <hi>to pretermit, and not at all to take notice of them; therefore in ſhort,</hi>
+            </p>
+            <p>THis Story of theirs was near as hot about ſix years laſt paſt, but then upon enquiry made of their Maſter <hi>Ralph James,</hi> the pretended Preacher of the Goſpel, and <hi>Richard Anderſon,</hi> one of his People, it was found a feigned Imagination, and ever ſince has ſeem<g ref="char:EOLhyphen"/>ed to be buryed in Aſhes, until <hi>February</hi> laſt, as their Nar<g ref="char:EOLhyphen"/>rative gives account: <hi>B. Morley, a Viſiter of their Churches,</hi> brought the old Story as new News to Town, uſhering it in as a <hi>PASSAGE OF PROVIDENCE SINCE HIS LAST BEING IN LONDON;</hi> as having it from <hi>R. J</hi>'s own mouth, whom he terms, as a Credit to his Story, an Elder of his Church.</p>
+            <p>Thereupon <hi>John Green, Feb.</hi> 12. 1671. upon his Bre<g ref="char:EOLhyphen"/>threns preſſure writes to <hi>R. J.</hi> acquaints him, That this new <hi>vampt Story</hi> is affirmed to be a <hi>forged Lye of the Indepen<g ref="char:EOLhyphen"/>dant
+<pb n="2" facs="tcp:103095:2"/>and Baptiſt People,</hi> which he will not believe, but rather a <hi>Land-Mark of Providence</hi> to adviſe a deluded People.</p>
+            <p>This Letter was not a Corriſive ſufficient to produce a true Relation; but <hi>Ralph James</hi> thereupon promiſed him one ſo ſoon as he could re-collect or inform himſelf.</p>
+            <p>Therefore this zealous <hi>London</hi> Brother, <hi>J. G.</hi> finding the <hi>fact</hi> kept not pace with his <hi>Envious Deſires,</hi> diſpatched a ſecond Epiſtle on the 16th of <hi>March,</hi> 1672. with ſtrong Arguments, how much of Concernment this piece of <hi>Juggle</hi> would add to their Cauſe, viz. <hi>A Diciſion of the great Controverſie, Strength to the Weak Hands and Feeble Knees of his poor people; the eminent Finger of Heaven; an eminent Handy-work to ſtrengthen their hands, &amp;c.</hi> and concludes with a deſire of the Reaſon, <hi>Why this great Handy-work of God had been ſo long concealed from publication?</hi> with an Admiration, <hi>That it hath not been more talked of, and openly ſpread in every Place, to the Honour of God, and deterring of poor ignorant People!</hi>
+            </p>
+            <p>Thus this <hi>Hypocritical Generation</hi> Boy up one another in their <hi>fictitious Imaginations,</hi> attributing to each other, and to their refuge of Lyes, Epithites exceeding the very Ex<g ref="char:EOLhyphen"/>preſſions of God's holy Prophets to any one Miraculous Handy-Work of the Lord, in any Age or Generation paſt.</p>
+            <p>It appears, that the 17th of the Moneth following, he returns Anſwer, That he had publiſhed the Narrative at that preſent; but ſaith not a word when that preſent was, but proceeds to tell us, <q>That a ſlaviſh Fear poſſeſſed him, which prevented his ſooner publication thereof.</q>
+            </p>
+            <p>Anſw. <hi>And certainly Fear ſhall ſurprize the Hypocrite, and Shame ſhall be over the Head of the Tranſgreſſor.</hi>
+            </p>
+            <p>He proceeds, <q>Thinking that my Friends and others,
+<pb n="3" facs="tcp:103095:2"/>that had ſeen it, would have thought that I had gloryed in it.</q>
+            </p>
+            <p>Anſw. <hi>A Guilty Conſcience ſtood not in need of an Accuſer; and hadſt thou kept to the Reproofs thereof, to this day hadſt thou been ſilent;</hi> and certainly it might have gained the more credit in the World, had it come from ſome of the preten<g ref="char:EOLhyphen"/>ded <hi>Credible Perſons, Eye and Ear Witneſſes of the Fact,</hi> as in the Front of the <hi>Libil</hi> its avered there were, although not any ſuch thing appears in their whole Treatiſe; but the the firſt and laſt Witneſs declare, they had this Rela<g ref="char:EOLhyphen"/>tion from <hi>Ralph James</hi> his own mouth; and the other pretend not to be <hi>Eye</hi> or <hi>Ear Witneſſes</hi> unto that Diſcourſe with <hi>R. James,</hi> or the Affliction of <hi>R. A</hi>'s. Family: There<g ref="char:EOLhyphen"/>fore <hi>R. James,</hi> to let the World know this fignal Mark of his being a true Prophet, he's forc'd to give out the Narrative himſelf, and to be a <hi>Lying Herald</hi> of his own <hi>Vain-glory,</hi> in which he doth not a little boaſt himſelf. In ſhort,</p>
+            <p>He avers, <hi>That one</hi> Richard Anderſon <hi>a</hi> Quaker, <hi>diſ<g ref="char:EOLhyphen"/>puting with him, whether the Spirit was to try Scripture, or the Scripture the Spirit;</hi> that R. A. averring the firſt, and he the ſaid R. J. being of the contrary Opinion; that R. A. ſhould ſay, <hi>That he had authority to pronounce him,</hi> that is R. J. <hi>a Leper;</hi> and that within a ſhort time after, <hi>the Lord was pleaſed to ſmite one of</hi> R. A<hi>'s Children</hi> (<hi>as</hi> R. A. <hi>ſaid</hi>) <hi>ſpotted all over; himſelf, his Wife and his other Children with a reſtleſs Pain in their Bodies;</hi> ſo that he was forced to come again, and con<g ref="char:EOLhyphen"/>feſs he was deceived; and that <hi>R. Anderſon</hi> ſhould after<g ref="char:EOLhyphen"/>wards come to the Anabaptiſt publick Meeting, where the Congregation prayed for him, his Wife and Children, and that thereupon they were all reſtored to Health, which afterwards R. A. keeping to their Meetings confeſſed: This briefly is the ſubſtance of his Relation, the Particulars
+<pb n="4" facs="tcp:103095:3"/>whereof ſhall be tryed by the Circumſtances of their own Relation, and other pregnant Proofs.</p>
+            <p n="1">1. That R. A. of <hi>Panton</hi> was a <hi>Quaker,</hi> as is deceit<g ref="char:EOLhyphen"/>fully inſinuated.</p>
+            <p n="2">2. That his Child was <hi>Leprous,</hi> and He, and his Wife and Family <hi>afflicted</hi> with Pain; both are denyed.</p>
+            <p>To anſwer the firſt, viz. that he was a <hi>Quaker,</hi> obſerve his Relation, pag. 8.</p>
+            <p n="1">1. Wherein <hi>R. James</hi> acknowledges, he came to the <hi>Baptiſts</hi> Meeting to hear the Goſpel preached.</p>
+            <p n="2">2. He affirms, that he was there <hi>convinced,</hi> and did believe, that <hi>Baptiſm in Water</hi> was an Ordinance of God, and that both Men and Women ought to be Baptized <hi>(that is, Dipt)</hi> in Water; whereby it appears, that he was at firſt of the Anabaptiſts Faith, vide pag. 8. of the Narrative.</p>
+            <p n="3">3. But how came he to be a <hi>Quaker?</hi> ſee the Narrative; after he had made his <hi>Confeſſion of Faith,</hi> he went away, and before their next Meeting he met with the People cal<g ref="char:EOLhyphen"/>led <hi>Quakers,</hi> who told him, He muſt not look to their out<g ref="char:EOLhyphen"/>ward Ordinances; and thereupon he much contended againſt the Baptiſm, (that is Dipping) of Water; What, there<g ref="char:EOLhyphen"/>fore a <hi>Quaker?</hi>
+            </p>
+            <p n="4">4. Appears it that ever more then once he went to the <hi>Quakers? Ralph James,</hi> the Relator, was preſent with him; ſo he might have been ſo ingenious to declare that part of Truth, and not put us to the trouble of ſearch.</p>
+            <p n="5">5. Yet in his Letter before the Narrative he affirms, that R. A. never went to the <hi>Quakers</hi> more, but continu<g ref="char:EOLhyphen"/>ed at the <hi>Anabaptiſts</hi> Meetings till a Warrant came to break them up, then he went away; ſo that it doth not appear
+<pb n="5" facs="tcp:103095:3"/>but he better deſerves the Name of an Anabaptiſt, then a Quaker, by thus much of his own ſhewing.</p>
+            <p n="6">6. But where did he meet with the <hi>Quakers?</hi> or how long was he with them were worthy of our Knowledge: Anſwer,</p>
+            <p>A Relation ſubſcribed by the ſaid R. A. bearing date the 20th of the 1ſt Moneth, called <hi>March,</hi> 1671. atteſted by one <hi>Katherine Hall,</hi> an Inhabitant in <hi>Panton;</hi> and alſo, <hi>Lawrence Marſhal</hi> and <hi>Thomas Richardſon,</hi> Perſons very well known in that Country, gives us this Account, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Richard Anderſon</hi> ſaith, <q>That he never was at a <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> Meeting, ſave only he being at <hi>Lincoln</hi> at an Aſſize-time about Eight or Nine Years ago, he heard one ſpeak<g ref="char:EOLhyphen"/>ing about a Quarter of an Hour, and ſeeing <hi>Ralph James</hi> come by called him to hear alſo; the Perſon that ſpoke was within the <hi>Grate,</hi> a Priſoner; and that he never had any further acquaintance or knowledge of them or their Principles, ſave only he once had a Book, that ſpoke of the Suffering of the People called <hi>Quakers</hi> in <hi>New-England.</hi>
+               </q>
+            </p>
+            <p>So that it appears, that his hearing a <hi>Quaker</hi> a Quarter of an Hour through a Grate (in company of his Elder) and declaring his diſlike to their Water-dipping, is the ground <hi>R. J.</hi> and his Brethren have to call him <hi>Quaker.</hi> And ad<g ref="char:EOLhyphen"/>mit he did diſcourſe for the Light of Chriſt within, when it gave ſome ſight of the <hi>Baptiſts Darkneſs,</hi> his Inſtabi<g ref="char:EOLhyphen"/>lity and Uncertainty; as it proves him no <hi>Quaker,</hi> ſo its no Proof againſt the <hi>Principle of Life</hi> within, nor at all doth it invalidate its Authority, as Guide and Rule both of Mind and Actions of ſuch who <hi>faithfully obey it.</hi> Not a word in their Narrative that he made his Confeſſion of Faith to or amongſt the <hi>Quakers,</hi> as he had done to the <hi>Anabaptiſts;</hi> why then is he called a <hi>Quaker?</hi> for afterwards he never
+<pb n="6" facs="tcp:103095:4"/>had further Acquaintance with them: Surely any rational man will Laugh at this their Folly.</p>
+            <p n="2">2. But to the ſecond Averment of the <hi>Anabaptiſt,</hi> that R. A's. Child was <hi>Leprous,</hi> and Himſelf, Wife and Chil<g ref="char:EOLhyphen"/>dren afflicted with Pain: How's that proved? the Front of their Pamphlet boaſts of credible Perſons Eye and Ear Witneſſes, which we expect.</p>
+            <p n="1">1. View the Narrative it ſelf (ſays <hi>R. J.</hi>) one of his Children (as he ſaid) ſpotted all over: <hi>Where's the Eye and Ear Witneſs?</hi> What, ſuch a Hand and Token of God and not to ſee it? An Elder of a Church, and not to viſit a di<g ref="char:EOLhyphen"/>ſtreſſed Family? Uncharitableneſs beyond meaſure! Was there one of his Neighbours, Kindred or Acquaintance that ſaw this? No, Do any other of the Teſtators ſay, they ſaw it? No, not a word of that; for had they averred ſuch a thing, the contrary had been with much eaſe prov'd againſt them, by the whole Neighbourhood where he liv'd; but they all ſay, R. A. <hi>ſaid ſo;</hi> and it proving falſe, theſe pieces of Deceit, with as great Facility as Confidence, charge the poor Man with Lying to them, if it were not ſo; and thus remains the Controverſie at this day. But further,</p>
+            <p n="2">2. Can any man believe that ſuch a <hi>Judgment,</hi> and ſuch a <hi>Mercy</hi> ſhould attend a <hi>Family,</hi> and the Remembrance there<g ref="char:EOLhyphen"/>of ſhould not engage <hi>him,</hi> that had received ſo great a <hi>ſhare</hi> thereof, to proclaim it firſt; but here appears the very con<g ref="char:EOLhyphen"/>trary under his own hand.</p>
+            <p n="3">3. Read the holy Scriptures of Truth; did <hi>Chriſt</hi> him<g ref="char:EOLhyphen"/>ſelf, or the <hi>Lepers, Halt</hi> and <hi>Blind</hi> ſpread abroad the <hi>Miracu<g ref="char:EOLhyphen"/>lous Works</hi> wrought upon them? Did he ever go back to ſuch as were <hi>healed,</hi> and entreat them to ſpeak, that his <hi>Father might be Honoured,</hi> as <hi>Ralph James</hi> declares he did in his Let<g ref="char:EOLhyphen"/>ter of the 16th of <hi>February,</hi> 1671. pretending he had no other End, <hi>but that God might be Honoured.</hi> O horrid Hy<g ref="char:EOLhyphen"/>pocriſie
+<pb n="7" facs="tcp:103095:4"/>and Deceit! It is impoſſible that ſuch an Impoſier ſhould ſix a Credulity in any man, having his Wits, of the verity of ſuch a <hi>Romance?</hi> ſurely no.</p>
+            <p n="4">4. Suppoſing this man told his Elder, that he ſhould be<g ref="char:EOLhyphen"/>come as <hi>Miriam,</hi> according to thoſe frequent Confeſſions which this Preacher makes (for himſelf and Brethren) to his God, or that he ſhould be full of <hi>Spots and Sores from the Crown of the Head to the Sole of the Foot;</hi> what then? muſt it needs be meant outward viſible Diſeaſes? does the Prea<g ref="char:EOLhyphen"/>cher mean ſuch when he confeſſes to God, <hi>That there is no part which is not infected?</hi> nothing leſs: whether he ſaid ſo or not to the Preaching <hi>Anabaptiſt,</hi> is not material for us to anſwer; for that proves him no <hi>Quaker</hi> in Principle or Pra<g ref="char:EOLhyphen"/>ctice, although diſſatisfied with the Anabaptiſts Railing. Probably that poor man frequenting their Meeting, hear<g ref="char:EOLhyphen"/>ing his Preacher intollerably inveigh againſt the abſent Quakers, manifeſted his Diſcontent to ſuch Diſcourſe; and in the heat of his affection might afterwards ſpeak to the Preacher, as the Preacher uſually doth in his Confeſſi<g ref="char:EOLhyphen"/>ons to his God, that he ſhould be as <hi>Miriam,</hi> and for any thing appears he may be ſo to this day.</p>
+            <p n="5">5. But where is the evident Token of God's Diſplea<g ref="char:EOLhyphen"/>ſure, and the Juſtification of this Hypocritical Elder before the poor Publican, and the Eye-Witneſſes of theſe viſi<g ref="char:EOLhyphen"/>ble noiſom Diſtempers they boaſt of? Not one Neighbour a Witneſs to this pretended Prodigy, but ſay, <hi>He ſaid ſo;</hi> a poor Proof to charge a ſingle Perſon, and much more in<g ref="char:EOLhyphen"/>conſiderable to charge a Body of People.</p>
+            <p n="6">6. But ſince (he ſaid ſo) is all his Charge, hear alſo what he has ſubſcrib<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, then take the natural conſequence of its truth or falſhood, who affirms, That he was clear and his Family from any ſuch <hi>Diſtemper</hi> as bodily Lepro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, but that he was
+<pb n="8" facs="tcp:103095:5"/>toſſed in mind by their windy doctrines he owns, ſubſcribed the 20th 1ſt Mon. 1670.</p>
+            <p n="7">7. As a further Teſtimony, <hi>Katherine Hall,</hi> that for ma<g ref="char:EOLhyphen"/>ny years has habited by him in <hi>Panton</hi> affirms, ſhe <hi>never knew nor heard any thing of ſuch Infection or Diſtemper amongſt them,</hi> witneſs her ſubſcription 20th 1ſt Mon. 1671.</p>
+            <p>How much Truth there is now in their pretended true Relation, let the impartial Reader judge. But to do theſe Impoſters Juſtice; let's examine their Witneſſes, elſe they'le pretend they had no fair tryal; we might object againſt them as Parties, and ſo ſet them aſide; but let's give them liberty, their Evidence I queſtion not will appear as deceitful and confuſed as their teſting Preacher, and cen<g ref="char:EOLhyphen"/>ter in one and the ſame pitch of Falſity and Folly.</p>
+            <p n="1">1. <hi>Peter Stacy,</hi> an <hi>Independant,</hi> was at <hi>Raſon</hi> Fair the 14th of <hi>September,</hi> but what year he omits, for fear the diſtance of time appearing might invalid his Teſtimony, but yet avers that then R. A. owned the truth of the Relation which was made but the 27th of <hi>April</hi> laſt, to which he ſubſcribes the 24th of <hi>February</hi> 1671. which was above two Moneths before the birth of the Narrative; this deſerv'd an <hi>Errata</hi> to help <hi>it,</hi> or a <hi>Poſt</hi> to help <hi>him.</hi>
+            </p>
+            <p n="2">2. <hi>John Laming,</hi> the 18th of <hi>April,</hi> aſſerts, that the Pa<g ref="char:EOLhyphen"/>per of the 27th of <hi>April,</hi> 1672. was truth; he might have ſaid, that <hi>it would be true</hi> (and as <hi>J. Anderſon</hi> told him) for he pretends not to be Eye or Ear-Witneſs to any thing, but the <hi>poor Man bleſſing his Child.</hi>
+            </p>
+            <p n="3">3. <hi>Tho. Baldeck,</hi> he's one of the pretended Sacrifizers for the Leper, and atteſt, that they deſired the Churches Pray<g ref="char:EOLhyphen"/>ers for the Recovery of the great Judgment, but not a word of any Anſwer they had. What's this to the purpoſe?</p>
+            <p n="4">4. <hi>Thomas James</hi> affirms, that <hi>Febr.</hi> 29. 167<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Anderſon</hi>
+               <pb n="9" facs="tcp:103095:5"/>the <hi>Quaker</hi> did confeſs the truth of what's aſſerted againſt him, and that he confeſſed, that his Wife was never at ſuch a Meeting before; which may very well be, and moſt pro<g ref="char:EOLhyphen"/>bably ſhe never was at any ſuch ſince, by any thing they pretend, or has been heard.</p>
+            <p n="5">5. But laſt of all, to cloſe with an infallible Eye and Ear-Witneſs, ſubſcribes <hi>John Green,</hi> and he affirms, that <hi>Ralph James</hi> has been an Elder of a Congregation many years, and that he had the Relation <hi>ſome months ago</hi> from his own <hi>mouth;</hi> truly this ſhall be granted to <hi>J. G.</hi> but why then in his very laſt Letter to his Elder R. J. ſhould he deſire a Reaſon, why this great Handy-work of God hath been ſo long conceal'd from publication, when he himſelf knew of it ſome months before? as alſo <hi>Ben. Morley,</hi> as J. G. affirms: whether J. G. be not as much Fool as Knave, by his own Handy-work, let his <hi>Brethren</hi> judge. And now let the World judge, whether they have made a better Relation then a mixture of Malice Lyes and Folly, which needs not greater Proof then its own confus'd Fragments together to evidence it.</p>
+            <p>And its worthy remarking, 1. The horrid Deceit of this hypocritical Fraternity, that in all they write there's no ac<g ref="char:EOLhyphen"/>count of the year this <hi>miracle</hi> was wrought in, ſo would have it preſumed as of Yeſterday, the more to take with &amp; amuſe the Ignorant, although the Story is of 8 or 9 years ſtanding.</p>
+            <p n="2">2. To proclaim themſelves zealous to undeceive the de<g ref="char:EOLhyphen"/>luded <hi>Quakers,</hi> and yet keep ſuch a <hi>Land-mark of God's Pro<g ref="char:EOLhyphen"/>vidence,</hi> as they tearm it, <hi>from publique view</hi> 8 <hi>or</hi> 9 <hi>years;</hi> where is their Charity? ſhall not thoſe that cover undergo the <hi>Curſe</hi> of him that romoves his Neighbours Land-mark? let them expound the Law.</p>
+            <p n="3">3. And now whether their Relation be true, or a falſe for<g ref="char:EOLhyphen"/>ged Lye of the confederated <hi>Independants</hi> and <hi>Anabaptiſts,</hi> let the Unprejudiced and Ingenuous judge.</p>
+            <pb n="10" facs="tcp:103095:6"/>
+            <p>And why, O ye <hi>Anabaptiſts</hi> and <hi>Independants,</hi> ſhould the Kings <hi>Lenity</hi> to <hi>you,</hi> and your <hi>Cruelty</hi> to <hi>us</hi> ſtill be <hi>Contempo<g ref="char:EOLhyphen"/>raries?</hi> What, ſhall there not be the leaſt Relax of penal <hi>Laws</hi> againſt Diſſenters, but you muſt ſtill be Incendiaries againſt us? We do remember what uſe your <hi>Brethren Inde<g ref="char:EOLhyphen"/>pendants</hi> in <hi>New-England,</hi> made of their Power in the years 58, &amp; 59. being the only Pharaſaical Sects, who have moſt eminently Embrewed their Hands in our Innocent <hi>Blood;</hi> witneſs thoſe our Friends your Brethren Hang'd to Death upon Trees, beſides the great number you Baniſhed, cut off their Ears, Branded with Irons, and Inhumanly Whipt, and Confiſcated their Goods, and kept in Irons; beſides many Inſtances of Cruelty in <hi>Cromwell</hi>'s time in this our native Country, to their and your utter Infamy amongſt the Ten<g ref="char:EOLhyphen"/>der-hearted of what Nation, Kindred and Tongue ſoever.</p>
+            <p>Be it known to all, we have not deſire and delight to appear in this wiſe to vindicate our ſelves, but for the ſake of that <hi>Truth,</hi> and the <hi>Servants of it,</hi> which the <hi>Folly</hi> and <hi>Envy</hi> of the <hi>Fooliſh</hi> and <hi>Heady</hi> amongſt them would by ſuch Pamphlets <hi>vilifie</hi> and <hi>reproach;</hi> therefore do we clear the more <hi>Ingenuous</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nprejudiced</hi> amongſt them, believing they deſire not this occaſion of Conteſt, but have diſowned and condemned thoſe <hi>Envious and Raſh ſpirits,</hi> who have been the Forgers and Fomenters of their <hi>piece of Forgery;</hi> ſome of them intimating, as is moſt probable, <hi>That the Intereſt of their Bro<g ref="char:EOLhyphen"/>ther</hi> Smith, <hi>for whom the Pamphlet was Printed, was the chief Mid<g ref="char:EOLhyphen"/>wife for handing out this <g ref="char:V">Ʋ</g>ntimely Birth.</hi> This briefly was diſpat<g ref="char:EOLhyphen"/>ched to the Preſs, whoſe brevity may be ſupplyed by the next, in caſe the Forger will adventure upon a Reply.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The 16th of the 3d Moneth,</hi> 1672.</date>
+               </dateline>
+               <signed>T. R.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="11" facs="tcp:103095:6"/>
+            <head>A Poſtſcript writ by <hi>John Whitehead,</hi> who hath for many Years Laboured in the Goſpel in the County of <hi>Lincoln.</hi>
+            </head>
+            <opener>
+               <salute>Ralph James,</salute>
+            </opener>
+            <p>VVHy haſt thou and the reſt of thy Brethren conſpir'd toge<g ref="char:EOLhyphen"/>ther to utter a Slander &amp; Reproach againſt the People of God called <hi>Quakers,</hi> in affirming <hi>Richard Anderſon</hi> to be one of them; Which of all the People of God call'd <hi>Quakers</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Lincoln,</hi> or elſe-where, did ever own him? or, to what Meet<g ref="char:EOLhyphen"/>ing of that People did he ever belong? or with which of them did he ever joyn in their <hi>Worſhip of God?</hi> and if he was <hi>never owned by any of them,</hi> nor <hi>belonged to any of their Meetings,</hi> nor <hi>joyned with them in Worſhip,</hi> as certainly <hi>he never was nor did:</hi> And I challenge thee and them to prove, <hi>That he either was owned, or frequented any of our Meetings in that County, or joyned with us in Worſhip,</hi> or elſe <hi>confeſs your Folly and Mallice,</hi> in uttering ſuch a <hi>Slander:</hi> For the People of God call'd <hi>Quakers</hi> in <hi>Lincoln-ſhire</hi> have had <hi>no more to do with him, then they have with thee, and others,</hi> who at ſome times have heard our words, and conceived Miſchief in your hearts, and then brought it forth to reproach us; and therefore turns back upon you that <hi>Hypocriſie, Lying</hi> and <hi>Deceit,</hi> which hath been hatched amongſt you, and is now brought forth <hi>without any Proof;</hi> that either <hi>he was of us,</hi> or that <hi>his Child was ſmitten with the Leproſie, or Himſelf or Family with a grievous</hi> Malady, ſaving his own word, whom you conclude was then a <hi>falſe Prophet</hi> &amp; <hi>deluded Creature,</hi> both ſubject to believe and ſpeak Lyes, and therefore no <hi>credit</hi> can be given to the thing which ye have reported, by any that are Unbyaſed, ſeeing you have brought no Teſtimony by any of the mans near Neighbours, that himſelf or Family was viſited with ſuch grievous Maladies, which doubtleſs could not have been hid from them, if ſuch a thing had really been, nor would ye have omitted bringing their Teſtimony, (if it had been to have bin had) this eight or nine years, as ye have done, and now do, to the diſcredit of your forged Story.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
